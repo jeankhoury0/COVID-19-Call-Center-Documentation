@@ -1,0 +1,48 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "COVID-19 RHH knowledge base"
+theme = "hugo-theme-learn"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-newspaper'></i>&nbsp rooved.io for latest news"
+identifier = "ds"
+url = "https://www.rooved.io"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-youtube'></i>&nbsp youtube channel"
+url = "/showcase"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-phone-alt'></i>&nbsp Contact us"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bullhorn'></i>&nbsp Credits"
+url = "/credits"
+weight = 30
+
+# English is the default language
+defaultContentLanguage = "en"
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir= true
+
+[Languages]
+[Languages.en]
+title = "Call center assistant"
+weight = 1
+languageName = "English"
+
+[Languages.ar]
+title = "Call center assistant"
+weight = 2
+languageName = "Arabic"
