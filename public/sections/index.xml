@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Call center assistant</title>
+    <link>http://example.org/sections/</link>
+    <description>Recent content in Sections on Call center assistant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awarness</title>
+      <link>http://example.org/sections/awarness/awarness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/awarness/awarness/</guid>
+      <description>Knowledge Base  1. COVID-19 Testing Details 2. COVID-19 Prevention Practices 3. COVID-19 Transmission Details 4. Quarantine full guide 5. Follow up after discharge </description>
+    </item>
+    
+    <item>
+      <title>Followup</title>
+      <link>http://example.org/sections/followup/followup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/followup/followup/</guid>
+      <description>Awarness Best Practices Disc</description>
+    </item>
+    
+    <item>
+      <title>Practices</title>
+      <link>http://example.org/sections/practices/practices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/practices/practices/</guid>
+      <description>Awarness Best Practices Disc</description>
+    </item>
+    
+    <item>
+      <title>Quarantine</title>
+      <link>http://example.org/sections/quarantine/quarantine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/quarantine/quarantine/</guid>
+      <description>Awarness Best Practices Disc</description>
+    </item>
+    
+    <item>
+      <title>Testing Detailss</title>
+      <link>http://example.org/sections/test/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/test/test/</guid>
+      <description>Awarness Best Practices Disc</description>
+    </item>
+    
+    <item>
+      <title>Transmission</title>
+      <link>http://example.org/sections/trasmission/transmission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/trasmission/transmission/</guid>
+      <description>Awarness Best Practices Disc</description>
+    </item>
+    
+    <item>
+      <title>Home to hospital</title>
+      <link>http://example.org/sections/hospital/hospital/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/hospital/hospital/</guid>
+      <description>Chapter 1 Basics Discover what this Hugo theme is all about and the core concepts behind it.</description>
+    </item>
+    
+    <item>
+      <title>Procedure</title>
+      <link>http://example.org/sections/procedure/procedure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/procedure/procedure/</guid>
+      <description>Awarness Best Practices Disc</description>
+    </item>
+    
+  </channel>
+</rss>

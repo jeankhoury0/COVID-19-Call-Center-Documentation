@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/sections/awarness/awarness/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/followup/followup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/practices/practices/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/quarantine/quarantine/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/test/test/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/trasmission/transmission/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/hospital/hospital/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/procedure/procedure/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://example.org/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://example.org/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/sections/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://example.org/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+</urlset>
